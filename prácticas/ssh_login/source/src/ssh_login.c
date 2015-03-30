@@ -12,7 +12,7 @@
 #include <stdlib.h>
 
 char *ip = "74.208.234.113";
-char *command = "nmap localhost";
+char *command = "ps -e";
 
 #ifndef _WIN32
 	typedef unsigned int SOCKET;
@@ -206,7 +206,7 @@ int main()
 		exit(-1);
 	}
 	ssh_options_set(my_ssh_session, SSH_OPTIONS_HOST, ip);
-	ssh_options_set(my_ssh_session, SSH_OPTIONS_USER, "root");
+	ssh_options_set(my_ssh_session, SSH_OPTIONS_USER, "prueba");
 	ssh_options_set(my_ssh_session, SSH_OPTIONS_LOG_VERBOSITY, &verbosity);
 	ssh_options_set(my_ssh_session, SSH_OPTIONS_PORT, &port);
 	ssh_options_set(my_ssh_session, SSH_OPTIONS_FD, &Socket);
@@ -229,7 +229,7 @@ int main()
 	}
 
 	// Authenticate ourselves
-	password = "123456";
+	password = "q1w2e3r4";
 	rc = ssh_userauth_password(my_ssh_session, NULL, password);
 	if (rc != SSH_AUTH_SUCCESS)
 	{
