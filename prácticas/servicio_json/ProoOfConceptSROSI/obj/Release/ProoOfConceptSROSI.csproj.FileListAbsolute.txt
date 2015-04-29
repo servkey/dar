@@ -1,0 +1,4 @@
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica10-WS\ProoOfConceptSROSI\ProoOfConceptSROSI\bin\ProoOfConceptSROSI.dll
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica10-WS\ProoOfConceptSROSI\ProoOfConceptSROSI\bin\ProoOfConceptSROSI.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica10-WS\ProoOfConceptSROSI\ProoOfConceptSROSI\obj\Release\ProoOfConceptSROSI.dll
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica10-WS\ProoOfConceptSROSI\ProoOfConceptSROSI\obj\Release\ProoOfConceptSROSI.pdb

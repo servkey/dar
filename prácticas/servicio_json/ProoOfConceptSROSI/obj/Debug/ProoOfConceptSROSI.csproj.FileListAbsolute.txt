@@ -1,0 +1,18 @@
+c:\users\msicu\documents\visual studio 2010\Projects\ProoOfConceptSROSI\ProoOfConceptSROSI\bin\ProoOfConceptSROSI.dll
+c:\users\msicu\documents\visual studio 2010\Projects\ProoOfConceptSROSI\ProoOfConceptSROSI\bin\ProoOfConceptSROSI.pdb
+c:\users\msicu\documents\visual studio 2010\Projects\ProoOfConceptSROSI\ProoOfConceptSROSI\obj\Debug\ResolveAssemblyReference.cache
+c:\users\msicu\documents\visual studio 2010\Projects\ProoOfConceptSROSI\ProoOfConceptSROSI\obj\Debug\ProoOfConceptSROSI.dll
+c:\users\msicu\documents\visual studio 2010\Projects\ProoOfConceptSROSI\ProoOfConceptSROSI\obj\Debug\ProoOfConceptSROSI.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica10-WS\ProoOfConceptSROSI\ProoOfConceptSROSI\bin\ProoOfConceptSROSI.dll
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica10-WS\ProoOfConceptSROSI\ProoOfConceptSROSI\bin\ProoOfConceptSROSI.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica10-WS\ProoOfConceptSROSI\ProoOfConceptSROSI\obj\Debug\ProoOfConceptSROSI.dll
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica10-WS\ProoOfConceptSROSI\ProoOfConceptSROSI\obj\Debug\ProoOfConceptSROSI.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica16 - ProoOfConceptSROSI\ProoOfConceptSROSI\bin\ProoOfConceptSROSI.dll
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica16 - ProoOfConceptSROSI\ProoOfConceptSROSI\bin\ProoOfConceptSROSI.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica16 - ProoOfConceptSROSI\ProoOfConceptSROSI\obj\Debug\ProoOfConceptSROSI.dll
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica16 - ProoOfConceptSROSI\ProoOfConceptSROSI\obj\Debug\ProoOfConceptSROSI.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\7_Agosto14_Diciembre14\TSCI\repository\tsc1\Prácticas\práctica 8 - ProoOfConceptSROSI\ProoOfConceptSROSI\obj\Debug\ProoOfConceptSROSI.dll
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\7_Agosto14_Diciembre14\TSCI\repository\tsc1\Prácticas\práctica 8 - ProoOfConceptSROSI\ProoOfConceptSROSI\obj\Debug\ProoOfConceptSROSI.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\7_Agosto14_Diciembre14\TSCI\repository\tsc1\Prácticas\práctica 8 - ProoOfConceptSROSI\ProoOfConceptSROSI\bin\ProoOfConceptSROSI.dll
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\7_Agosto14_Diciembre14\TSCI\repository\tsc1\Prácticas\práctica 8 - ProoOfConceptSROSI\ProoOfConceptSROSI\bin\ProoOfConceptSROSI.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\7_Agosto14_Diciembre14\TSCI\repository\tsc1\Prácticas\práctica 8 - ProoOfConceptSROSI\ProoOfConceptSROSI\obj\Debug\ProoOfConceptSROSI.csprojResolveAssemblyReference.cache
